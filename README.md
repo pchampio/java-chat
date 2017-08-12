@@ -9,7 +9,7 @@ A simple java chat application
         <li><b>#d3961b</b> pour changer la couleur de son pseudo au code hexadécimal indiquer</li>
         <li><b>;)</b> quelques smileys sont implémentés</li>
         <li><b>flèche du haut</b> pour reprendre le dernier message tapé</li>
-        </ul><br/>");  
+        </ul><br/>
 
 
 
